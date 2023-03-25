@@ -1,1 +1,3 @@
-WEBSITE WHICH DISPLAY A PERSONAL DETAILS AND PORFOLIO
+## Personal Portfolio
+
+![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
